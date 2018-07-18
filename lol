@@ -91,7 +91,7 @@
   },
    {
     "id": 206,
-    "name": "Baluarte Watch Tower",
+    "name": "Baluarte Watch Tower, Luna La Union",
     "imageUrl": "https://c1.staticflickr.com/9/8035/7929118544_3313454a5a_b.jpg",
     "price": 0,
     "priceCurrency": "PHP",
