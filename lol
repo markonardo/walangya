@@ -19,7 +19,7 @@
   },
   {
     "id": 201,
-    "name": "Halo-Halo De Iloko",
+    "name": "Halo-Halo De Iloko, San Fernando City La Union",
     "imageUrl": "http://1.bp.blogspot.com/-rX0rlDLBJ-0/UidR3SYMWvI/AAAAAAAABpo/ioGIArv0WlA/s1600/DSC05211.JPG",
     "price": 0,
     "priceCurrency": "PHP",
