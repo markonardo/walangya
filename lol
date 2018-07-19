@@ -28,7 +28,7 @@
   },
   {
     "id": 205,
-    "name": "Acapulco Beach Resort",
+    "name": "Acapulco Beach Resort, San Fernando City La Union",
     "imageUrl": "https://doraymanlalakbay.files.wordpress.com/2010/04/15027_109892745696216_100000264734317_187305_8057270_n1.jpg",
     "price": 0,
     "priceCurrency": "PHP",
@@ -37,7 +37,7 @@
   },
   {
     "id": 210,
-    "name": "Pindangan Ruins",
+    "name": "Pindangan Ruins, San Fernando City La Union",
     "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/11/pindangan-ruins.jpg",
     "price": 50,
     "priceCurrency": "PHP",
@@ -55,7 +55,7 @@
   },
   {
     "id": 212,
-    "name": "My Home Address",
+    "name": "My Home Address, San Fernando City La Union",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/SaFernandoCityLa_Unionjf462.JPG/1200px-SaFernandoCityLa_Unionjf462.JPG",
     "price": 0,
     "priceCurrency": "PHP",
