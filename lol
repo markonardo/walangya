@@ -1,7 +1,7 @@
 [
   {
     "id": 145,
-    "name": "Ma-Cho Temple (Taoist Temple)",
+    "name": "Ma-Cho Temple (Taoist Temple), San Fernando City La Union",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/1200px-MaChoTemplejf501.JPG",
     "price": 20,
     "priceCurrency": "PHP",
